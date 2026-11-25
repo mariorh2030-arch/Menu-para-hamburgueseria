@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1, 
+        "name": "Hamburguesa clasica", 
+        "price": 75,
+        "descripcion": "100 g de carne, queso americano, jamon, mayonesa, catsup, pan",
+        "categoria": "Hamburguesa",
+        "image": "",
+        "disponibilidad": true 
+    },
+    {
+        "id": 2, 
+        "name": "Hamburguesa con tocino", 
+        "price": 50,
+        "descripcion": "100 g de carne, 50 g de tocino, queso americano, mayonesa, catsup, pan",
+        "categoria": "Hamburguesa",
+        "image": "",
+        "disponibilidad": true
+    },
+    {
+        "id": 3, 
+        "name": "Hamburguesa con doble queso", 
+        "price": 90,
+        "descripcion": "100 g de carne, queso americano, queso manchego, quesillo jamon, mayonesa, catsup, pan",
+        "categoria": "Hamburguesa",
+        "image": "",
+        "disponibilidad": true
+    },
+    {
+        "id": 4, 
+        "name": "Aros de cebolla", 
+        "price": 40,
+        "descripcion": "50 g de cebollas fritas en forma de aro con pan molido",
+        "categoria": "complementos",
+        "image": "",
+        "disponibilidad": true
+    },
+    {
+        "id": 5, 
+        "name": "Agua de Horchata 500 ml", 
+        "price": 20,
+        "descripcion": "deliciosa agua de horchata, hecha con arroz.",
+        "categoria": "bebidas",
+        "image": "",
+        "disponibilidad": true
+    },
+    {
+        "id": 6, 
+        "name": "Pay de limon", 
+        "price": 35,
+        "descripcion": "Delicioso pay de limon, hecho con galleta maria",
+        "categoria": "postres",
+        "image": "",
+        "disponibilidad": true
+    }
+]
