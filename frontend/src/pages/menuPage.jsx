@@ -11,8 +11,8 @@ export default function MenuPage(){
             <Header/>
             <main>
                 <SearchBar/>
-                <CategoryFilter/>
-                <ProductCard  listaProducto={productos}/>
+                <CategoryFilter Producto={productos}/>
+                {productos.map(producto => <ProductCard key={producto.id} producto={producto}></ProductCard>)}
             </main>
             <Footer/>
         </>

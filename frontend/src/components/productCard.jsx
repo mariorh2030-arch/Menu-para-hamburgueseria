@@ -1,19 +1,17 @@
 
-export default function ProductCard ({listaProducto})
+export default function ProductCard ({producto})
 {
     return (
         <article>
             <div>
                 <img src="" alt="" />
             </div>
-
-           {listaProducto.map((producto) => (
-                <div key={producto.id}>
+            <div>
                     <h3>{producto.name}</h3>
                     <p>{producto.descripcion}</p>
                     <p>${producto.price}</p>
                 </div>
-            ))}
+
         </article>
     )
 }

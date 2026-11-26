@@ -52,5 +52,14 @@
         "categoria": "postres",
         "image": "",
         "disponibilidad": true
+    },
+    {
+        "id": 7, 
+        "name": "Pay de queso", 
+        "price": 20,
+        "descripcion": "Delicioso pay de queso, hecho con galleta maria y queso",
+        "categoria": "postres",
+        "image": "",
+        "disponibilidad": true
     }
 ]
