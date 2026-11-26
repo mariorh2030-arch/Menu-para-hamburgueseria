@@ -4,8 +4,8 @@
         "name": "Hamburguesa clasica", 
         "price": 75,
         "descripcion": "100 g de carne, queso americano, jamon, mayonesa, catsup, pan",
-        "categoria": "Hamburguesa",
-        "image": "",
+        "categoria": "hamburguesas",
+        "image": "/images/clasica.jpg",
         "disponibilidad": true 
     },
     {
@@ -13,8 +13,8 @@
         "name": "Hamburguesa con tocino", 
         "price": 50,
         "descripcion": "100 g de carne, 50 g de tocino, queso americano, mayonesa, catsup, pan",
-        "categoria": "Hamburguesa",
-        "image": "",
+        "categoria": "hamburguesas",
+        "image": "/images/tocino.jpg",
         "disponibilidad": true
     },
     {
@@ -22,8 +22,8 @@
         "name": "Hamburguesa con doble queso", 
         "price": 90,
         "descripcion": "100 g de carne, queso americano, queso manchego, quesillo jamon, mayonesa, catsup, pan",
-        "categoria": "Hamburguesa",
-        "image": "",
+        "categoria": "hamburguesas",
+        "image": "/images/queso.jpg",
         "disponibilidad": true
     },
     {
@@ -32,7 +32,7 @@
         "price": 40,
         "descripcion": "50 g de cebollas fritas en forma de aro con pan molido",
         "categoria": "complementos",
-        "image": "",
+        "image": "/images/aros-cebolla.jpg",
         "disponibilidad": true
     },
     {
@@ -41,7 +41,7 @@
         "price": 20,
         "descripcion": "deliciosa agua de horchata, hecha con arroz.",
         "categoria": "bebidas",
-        "image": "",
+        "image": "/images/horchata.jpg",
         "disponibilidad": true
     },
     {
@@ -50,7 +50,7 @@
         "price": 35,
         "descripcion": "Delicioso pay de limon, hecho con galleta maria",
         "categoria": "postres",
-        "image": "",
+        "image": "/images/pay_limon.jpg",
         "disponibilidad": true
     },
     {
@@ -59,7 +59,7 @@
         "price": 20,
         "descripcion": "Delicioso pay de queso, hecho con galleta maria y queso",
         "categoria": "postres",
-        "image": "",
+        "image": "/images/pay_queso.jpg",
         "disponibilidad": true
     }
 ]

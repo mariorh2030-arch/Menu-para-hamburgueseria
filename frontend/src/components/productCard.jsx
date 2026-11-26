@@ -4,7 +4,7 @@ export default function ProductCard ({producto})
     return (
         <article>
             <div>
-                <img src="" alt="" />
+                <img src={producto.image} alt="" />
             </div>
             <div>
                     <h3>{producto.name}</h3>
