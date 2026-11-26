@@ -12,7 +12,7 @@ export default function MenuPage(){
             <main>
                 <SearchBar/>
                 <CategoryFilter/>
-                {productos.map(producto => <ProductCard  menu= {productos}/>)}
+                <ProductCard  listaProducto={productos}/>
             </main>
             <Footer/>
         </>
